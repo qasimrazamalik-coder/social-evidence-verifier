@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Evidence Verifier"
+  short_description: "Check social-media claims for source traceability, corroboration, timestamp quality and unsuppo"
+  default_prompt: "Use @social-evidence-verifier on my authorized input and return a validated result."

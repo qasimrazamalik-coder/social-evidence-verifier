@@ -1,0 +1,10 @@
+{
+  "findings": [
+    {
+      "id": "finding-a",
+      "severity": "high",
+      "users_affected": 800,
+      "confidence": 0.9
+    }
+  ]
+}
